@@ -1,0 +1,18 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs
+/GitExample2/bin/Debug/net8.0
+/GitExample2/obj/Debug/net8.0/ref
+/GitExample2/obj/Debug/net8.0/refint
+/GitExample2/obj/Debug/net8.0/GitExample2.AssemblyInfo.cs
+/GitExample2/obj/Debug/net8.0/apphost.exe
+/GitExample2/obj/Debug/net8.0/GitExample2.AssemblyInfoInputs.cache
+/GitExample2/obj/Debug/net8.0/GitExample2.csproj.BuildWithSkipAnalyzers
+/GitExample2/obj/Debug/net8.0/GitExample2.csproj.CoreCompileInputs.cache
+/GitExample2/obj/Debug/net8.0/GitExample2.csproj.FileListAbsolute.txt
+/GitExample2/obj/Debug/net8.0/GitExample2.dll
+/GitExample2/obj/Debug/net8.0/GitExample2.genruntimeconfig.cache
+/GitExample2/obj/Debug/net8.0/GitExample2.pdb
+/GitExample2/obj/Debug/net8.0/GitExample2.sourcelink.json
